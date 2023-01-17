@@ -3,3 +3,9 @@ roka
 sün
 foka
 gepard
+kutya
+macska
+tengeri malac
+elefant
+majom
+béka
