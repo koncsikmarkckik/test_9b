@@ -1,3 +1,4 @@
 zöld
 piros
 kék
+lila
